@@ -1,0 +1,3 @@
+include ':xirr'
+include ':app'
+rootProject.name = "XIRR"
