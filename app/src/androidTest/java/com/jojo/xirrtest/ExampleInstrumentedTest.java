@@ -1,4 +1,4 @@
-package com.jojo.xirr;
+package com.jojo.xirrtest;
 
 import android.content.Context;
 
